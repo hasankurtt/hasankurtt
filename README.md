@@ -73,10 +73,13 @@ Docker, Linux, Git, AWS (basic), Huawei Cloud
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasankurtt&show_icons=true&theme=dark)
+## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasankurtt&layout=compact&theme=dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasankurtt&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasankurtt&theme=tokyonight)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasankurtt&theme=tokyonight)
 
 ---
 
