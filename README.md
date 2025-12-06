@@ -1,84 +1,102 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hey!+I'm+Hasan+Kurt;Computer+Engineering+Student;AI+%26+Cloud+Enthusiast" alt="Typing SVG" />
-  </a>
-</h1>
+# 👋 Hi, I'm Hasan Kurt  
+**Computer Engineering Student | AI • Computer Vision • Cloud Enthusiast**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/hsnkurt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hasankurt051@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
+I am a final-year Computer Engineering student in Türkiye, focused on building **real-world, production-oriented AI and Computer Vision systems**. My main interests are **Deep Learning, Computer Vision, MLOps, and Cloud-based architectures**.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l4pTjOuYpA8aKAtiM/giphy.gif" width="100%" alt="AI & Cloud Gif">
-</p>
+I enjoy solving complex problems, designing end-to-end ML pipelines, and transforming academic ideas into deployable systems.
 
-<h3 align="center">👨‍💻 About Me</h3>
+---
 
-<p align="center">
-  I'm a Computer Engineering student passionate about solving complex problems at scale.<br>
-  I'm bridging the gap between advanced <b>Artificial Intelligence</b> and robust <b>Cloud Infrastructure</b>.
-</p>
+## 🚀 Main Focus Areas
+- Computer Vision & Deep Learning  
+- Machine Learning & Data Science  
+- Backend Development for AI Systems  
+- Cloud & DevOps Fundamentals  
+- Embedded Systems & Microcontrollers  
 
-<p align="left">
-- 🔭 I'm currently building projects with <b>Computer Vision</b> and <b>RAG</b>, focusing on deploying them to cloud environments using <b>DevOps</b> practices.
-</p>
-<p align="left">
-- 🌱 I’m currently diving deep into advanced <b>AI</b>, specializing in <b>Large Language Models (LLMs)</b> and scalable <b>Computer Vision</b> solutions.
-</p>
-<p align="left">
-- 📫 How to reach me: <b>hasankurt051@gmail.com</b>
-</p>
+---
 
+## 🛠 Tech Stack
 
-<h3 align="center">🛠️ My Tech Stack</h3>
+**Languages:**  
+Python, C, C++, Java, JavaScript, SQL  
 
-<h4 align="center">🤖 AI & Machine Learning</h4>
-<p align="center">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-    <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging face" width="40" height="40"/> </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" alt="matplotlib" width="40" height="40"/> </a>
-    <a href="httpshttps://www.sql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="40" height="40"/> </a>
-</p>
+**AI & ML:**  
+OpenCV, scikit-learn, PyTorch, YOLO, NumPy, Pandas, Matplotlib  
 
-<h4 align="center">☁️ Cloud & DevOps</h4>
-<p align="center">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-    <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
-    <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
-    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github_actions/github_actions-icon.svg" alt="github actions" width="40" height="40"/> </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-    <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab ci" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+**Backend & Databases:**  
+Flask, FastAPI, Django, PostgreSQL, MongoDB  
 
-<h3 align="center">🔥 My GitHub Activity</h3>
+**DevOps & Cloud:**  
+Docker, Linux, Git, AWS (basic), Huawei Cloud  
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hasankurtt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasankurtt&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top Languages" />
-</div>
+**Embedded:**  
+8051 Microcontroller, Verilog (basic)
 
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%">
-</p>
+---
 
-<p align="center">
-  <img height="150" width="150" src="https://media.giphy.com/media/l4GKnOzBuh0c8vJzG/giphy.gif" alt="Matrix Gif">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hasankurtt&theme=dark&background=0D1117&fire=FFFFFF&ring=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-  <img height="150" width="150" src="https://media.giphy.com/media/l4GKnOzBuh0c8vJzG/giphy.gif" alt="Matrix Gif">
-</p>
+## 📌 Featured Projects
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasankurtt&color=4c7bff&style=flat-square" alt="Profile Visitor Count" />
-</div>
+### 🔹 FriendZone – AI-Based Social Matching Platform (Graduation Project)
+- Machine learning-powered social matching system for university students  
+- Clustering with K-Means, DBSCAN, Leiden/Louvain community detection  
+- Backend with Flask & PostgreSQL  
+- Focus on data privacy & GDPR/KVKK compliance  
+
+**Tech:** Python, scikit-learn, Flask, PostgreSQL, Docker  
+
+---
+
+### 🔹 Yellow Line Violation Detection (Computer Vision)
+- Real-time detection of metro safety line violations  
+- Frame-by-frame video processing  
+- YOLO-based segmentation and depth estimation  
+
+**Tech:** Python, OpenCV, YOLO, Deep Learning  
+
+---
+
+### 🔹 DocuMind AI – RAG-Based Document Assistant
+- Semantic document search using embeddings  
+- Pinecone vector database integration  
+- AI-powered legal document interpretation  
+
+**Tech:** Python, Pinecone, MongoDB, OpenAI API  
+
+---
+
+### 🔹 Face Recognition Attendance System
+- Face-based personnel check-in/check-out system  
+- Working towards liveness detection & anti-spoof protection  
+
+**Tech:** Python, OpenCV, Face Recognition Models  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasankurtt&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasankurtt&layout=compact&theme=dark)
+
+---
+
+## 🎯 Current Goals
+- Becoming a **Computer Vision Engineer**
+- Publishing production-level CV projects
+- Strengthening cloud-native AI deployment skills
+- Preparing for international career and graduate studies
+
+---
+
+## 🌍 Connect With Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/hsnkurt  
+- 💻 GitHub: https://github.com/hasankurtt  
+
+---
+
+## 🧠 Philosophy
+> “Strong engineering is built on mathematics, discipline, and real-world problem solving.”
+
+---
+
+⭐ If you like my projects, feel free to follow and collaborate!
