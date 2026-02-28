@@ -21,6 +21,7 @@ I build end-to-end AI systems and deploy them to production. My focus is on RAG 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [aidocs.hasankurt.com](https://aidocs.hasankurt.com) | RAG-based document Q&A platform — Dockerized, CI/CD via GitHub Actions, deployed on AWS EC2 | FastAPI, React, Pinecone, OpenAI, Docker |
+| [seymenrealestate.com](https://seymenrealestate.com) | Client project. Full-stack real estate platform — technical SEO, Google Ads management | React, TypeScript, PHP, MySQL |
 | [hasankurt.com](https://hasankurt.com) | Personal portfolio — static Next.js site served via AWS S3, CloudFront, Route 53, ACM SSL | Next.js, AWS S3, CloudFront |
 
 ---
